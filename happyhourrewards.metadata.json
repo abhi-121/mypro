@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"pacman.happyhourrewards"},{"v":{"$numberInt":"2"},"key":{"userId":{"$numberInt":"1"}},"name":"userId_1","ns":"pacman.happyhourrewards","background":true}],"uuid":"a4eb02d74d3d433e8173031e1fe6b9e4"}

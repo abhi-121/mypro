@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"pacman.configs"}],"uuid":"2e18c2858f754760a2dccf203f0a5b1f"}

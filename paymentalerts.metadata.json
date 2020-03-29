@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"pacman.paymentalerts"}],"uuid":"71807ffec5bc4009905bf9fb93bbdcb5"}

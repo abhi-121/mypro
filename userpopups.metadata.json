@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"pacman.userpopups"}],"uuid":"5a2aff5c0b054deab574f13d740741f1"}
